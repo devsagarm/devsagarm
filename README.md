@@ -2,12 +2,10 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-# Hi 👋, I'm Sagar Malviya
-🎓 Master’s in Computer Applications (2022-2024) <br>💻 DevOps & Cloud Infrastructure Engineer <br>💡 I love automating workflows, scaling infrastructure, and building resilient systems <br>🔐 Experienced in DevSecOps, implementing RBAC, and securing cloud-native environments <br>☁️ Cloud: AWS (EC2, S3, VPC, IAM, RDS)<br>🐳 Containers & Orchestration: Docker, Kubernetes, Helm, Managed K8s (EKS/AKS) <br>🛠 IaC & CI/CD: Terraform, Ansible, Jenkins, GitLab CI, GitHub Actions <br>📊 Monitoring & Logging: Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana) <br>🌱 Currently learning: GitOps (ArgoCD) and Trivy <br>🧠 Always open to architecting robust systems and collaborating on complex cloud migrations <br> 
-
+<b>Hi 👋, I'm Sagar Malviya</b> <br>
+🎓 Master’s in Computer Applications (2022-2024) <br>💻 DevOps & Cloud Infrastructure Engineer <br>💡 I love automating workflows, scaling infrastructure, and building resilient systems <br>🔐 Experienced in DevSecOps, implementing RBAC, and securing cloud-native environments <br>☁️ Cloud: AWS (EC2, S3, VPC, IAM, RDS)<br>🐳 Containers & Orchestration: Docker, Kubernetes, Helm, Managed K8s (EKS/AKS) <br>🛠 IaC & CI/CD: Terraform, Ansible, Jenkins, GitLab CI, GitHub Actions <br>📊 Monitoring & Logging: Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana) <br>🌱 Currently learning: GitOps (ArgoCD) and Trivy <br>🧠 Always open to architecting robust systems and collaborating on complex cloud migrations <br> &nbsp;
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sagarmalviya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:work.sagarmalviya@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/D7CZvHgS) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sagarbuddy.m) 
 
