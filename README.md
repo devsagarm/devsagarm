@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="https://raw.githubusercontent.com/sagarmalviyaa/instagram-clone/refs/heads/main/resources/banner.jpg" height="300"/>
 </p>
 <hr>
 <b>Hi 👋, I'm Sagar Malviya</b> <br>
