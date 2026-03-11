@@ -16,5 +16,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=sagarmalviyaa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarmalviyaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 💰 You can help me by Donating
+## 💰 You can help me by
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sagarmalviya)
